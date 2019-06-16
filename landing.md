@@ -29,7 +29,7 @@ nav-menu: true
                 <p>Competition I ended with a fun trip to California for the first hyperloop competition at SpaceX HQ in Hawthorne. This made me realize that project scope, timelines, and resources are arguable more important to getting a project done than most of the technical challenges that come up.</p>
 				
 				<ul class="actions">
-                                        <li><a href="generic.html" class="button">Learn more</a></li>
+                                        <li><a href="elements.html" class="button">Learn more</a></li>
                                 </ul>
                         </div>
                 </div>
@@ -49,7 +49,7 @@ nav-menu: true
 				</header>
 				<p>Pod II was my introduction to Altium, low voltage power systems and cold gas thrusters. I learned how to make a power budget, worked with mechanical engineers, and learned that there are tons of differences between a CAD model and a product in real life.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="elements.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -66,14 +66,14 @@ nav-menu: true
 				<p>While it was quite the grind, pod III was probably my favorite pod. Without any magnets or cold gas thrusters and with the requirement that we self-propel all the way down the tube, we decided on an electric powertrain system to drive a single wheel. With a really small electrical team, we designed a custom battery pack, powertrain system, and three low voltage control PCBs. The battery pack had a 72s1p using hobby cells, inside of a sealed pressure vessel (maintains atmosphric pressure when the ambient pressure nears vacuum). The battery management system and motor controller / inverter + motor were off the shelf, but we still had to work hard to get all of the pieces working in concert, integrated to the pod, and ensuring everyone was safe around a high voltage system .</p>
 				<p>One of my big takeaways from this pod was that "we'll fix it in software" might be the right solution, but usually means your timeline will get shifted back a few days. I also witnessed a different team have an unfortuante battery safety situation, which drove home the importance of following all safety procedures. </p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="elements.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/podiv.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/podiv.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -82,7 +82,7 @@ nav-menu: true
 				</header>
 				<p>Pod IV is still under development. About a month out from the competition, I think this pod could be the one to make it in the tube, but if I've learned anything from my competition experience, anything can happen in Hawthorne.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="elements.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
