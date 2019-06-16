@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Hi, my name is Ryan Castle'
 description: null
 image: null
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+I'm an Senior at the University of Wisconsin-Madison, working toward my undergraduate degree in Electrical Engineering. I've done a wide range of internships and co-ops, from a multinational automation company, to a small ruggedized computer subcontractor, to a well known aerospace company. Most of my experience is firmly in the hardware world, but I figured it was time to put up some of my work on the great void of the internet. 
