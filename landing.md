@@ -1,7 +1,7 @@
 ---
 title: Landing
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Recap and lessons learned from building hyperloop pods'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
