@@ -2,7 +2,7 @@
 title: Landing
 layout: landing
 description: 'Recap and lessons learned from building hyperloop pods'
-image: assets/images/pic07.jpg
+image: assets/images/pod4.png
 nav-menu: true
 ---
 
