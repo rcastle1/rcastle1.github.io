@@ -2,16 +2,15 @@
 title: Ryan Castle
 subtitle: Personal Portfolio
 email: rpcastle66@gmail.com
-description: A first attempt at a portfolio website for the various projects I've worked on over the years.
+description: Work in progress electrical engineering portfolio.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: rcastle1.github.io # the base hostname & protocol for your site
 author: Ryan Castle
 street_address: 
 city: Madison
 state: WI
-zip_code: 53796
+zip_code: 53706
 country: United States of America
-phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
