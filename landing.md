@@ -1,5 +1,5 @@
 ---
-title: Landing
+title: Hyperloop Builds
 layout: landing
 description: 'Recap and lessons learned from building hyperloop pods'
 image: assets/images/pod4.png
