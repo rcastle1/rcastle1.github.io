@@ -1,5 +1,5 @@
 ---
-title: Hyperloop Pods
+title: Landing
 layout: landing
 description: 'Recap and reflection on the four hyperloop iterations I've gone through'
 image: assets/images/pod.jpg
