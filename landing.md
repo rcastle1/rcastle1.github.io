@@ -1,8 +1,8 @@
 ---
 title: Landing
 layout: landing
-description: 'Recap and reflection on the four hyperloop iterations I've gone through'
-image: assets/images/pod.jpg
+description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+image: assets/images/pic07.jpg
 nav-menu: true
 ---
 
@@ -13,9 +13,11 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Pod I</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		        <p>Oh what a time, pod I was my first real exposure to "competitive engineering" projects. I knew basically nothing about electrical engineering, circuit design, SpaceX, or engineering in general. In my first few weeks on campus I ran into a friend from back home who told me about this cool project called hyperloop and said I should go to the first meeting. Four years later, that random encounter on the bike trail in Madison really made a difference in my hobby and career</p>
+                <p> For this pod, I was on the sensors team, but with little knowledge of sensors (hey, those sense things right?), PCBs, or circuit design, and with a fairly vague tasks, I ended up doing something I knew I could do very well-- maintain extensive Excel spreadsheets for pod harnessing pinout documentation! I'll have to dig those up at some point</p>
+                <p>Competition I ended with a fun trip to California for the first hyperloop competition at SpaceX HQ in Hawthorne. This made me realize that project scope, timelines, and resources are arguable more important to getting a project done than most of the technical challenges that come up.</p>
 	</div>
 </section>
 
