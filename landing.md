@@ -1,8 +1,8 @@
 ---
-title: Hyperloop Pods
+title: Landing
 layout: landing
-description: 'Some details on the hyperloop pods I've worked on in Badgerloop.'
-image: assets/images/badgerloop.jpg
+description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+image: assets/images/pic07.jpg
 nav-menu: true
 ---
 
