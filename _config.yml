@@ -14,7 +14,7 @@ country: United States of America
 
 # homepage tiles
 tiles-source: pages # accepts "pages"
-tiles-count: 4
+tiles-count: 5
 
 # social settings
 500px_url:
